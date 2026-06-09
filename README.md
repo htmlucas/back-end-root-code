@@ -8,6 +8,10 @@
   composer i
   ```
   - Criar o arquivo .env com a sua configuração de banco de dados que preferir
+  - rodar o comando:
+  ```bash
+  php artisan key:generate
+  ```
   - Pronto !
 
 ## Decisões e premissas
