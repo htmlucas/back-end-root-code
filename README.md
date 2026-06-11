@@ -13,7 +13,7 @@
   php artisan key:generate
   ```
   - Pronto !
-  - Para rodar o código:
+  - Agora só iniciar o projeto com:
   ```bash
     php artisan serve
   ```
