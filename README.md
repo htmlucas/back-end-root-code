@@ -13,6 +13,10 @@
   php artisan key:generate
   ```
   - Pronto !
+  - Para rodar o código:
+  ```bash
+    php artisan serve
+  ```
 
 ## Decisões e premissas
 - Eu decidi usar o Laravel 12 por mais prática, já que tenho utilizado bastante em projetos pessoais. Ele permite instalar só o que a gente realmente vai usar. No caso da API, a partir do 11 (se não me engano) ele não vem mais com o arquivo pronto, então usando php artisan install:api ele já cria tudo configurado pra uso.
